@@ -1,2 +1,4 @@
-# DevFestTemplate
-a Template for DevFest GCP Challenge projects
+# DevFest Templates
+
+http://github.com - automatic!
+[GitHub](http://github.com)
