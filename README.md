@@ -7,5 +7,8 @@
 * [Google Vision Sampler](https://github.com/Hironsan/google-vision-sampler)
 * [Google Vision API Web Sample](https://github.com/GoogleCloudPlatform/web-docs-samples)
 * [Google APIs](https://googleapis.github.io/)
+
+# For website or web app deployment
 * [Stackblitz](https://stackblitz.com/)
 * [Netlify](https://app.netlify.com/)
+* Or just use GitHub for a static (with no backend) webpage
