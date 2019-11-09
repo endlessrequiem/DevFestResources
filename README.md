@@ -11,4 +11,4 @@
 # For website or web app deployment
 * [Stackblitz](https://stackblitz.com/)
 * [Netlify](https://app.netlify.com/)
-* Or just use GitHub for a static (with no backend) webpage
+* Or just use [GitHub](https://pages.github.com/) for a static (with no backend) webpage 
